@@ -33,7 +33,7 @@ The tools are free and always will be. If you'd rather not set them up yourself,
 - custom or white-label versions of these tools
 - new XDC tools and integrations built to order
 
-Get in touch on [X](https://x.com/s4njk4n) or [Telegram](https://t.me/s4njk4n), or find me on Discord as `s4njk4n`.
+Get in touch on [X](https://x.com/s4njk4n), [Telegram](https://t.me/s4njk4n) or [Discord](https://discord.com/users/852434672793288724).
 
 ---
 
