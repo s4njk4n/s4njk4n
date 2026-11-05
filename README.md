@@ -4,6 +4,8 @@ I build free, open-source tools for the [XDC Network](https://xdc.org) and publi
 
 Most of them started with a gap I noticed in the ecosystem: something people kept asking for, or a job that was harder than it needed to be. I build the fix, tidy it up and share it. Everything here is free to use, MIT licensed, and built so you can run it yourself without handing your keys or data to anyone.
 
+**New to building on XDC? Start with [XDC Atlas](https://xdcoutpost.xyz/XDC_Atlas/)**: a map of the XDC ecosystem, with 130+ tools, apps and services, about 150 developer guides from across the ecosystem, and live status for every public XDC RPC endpoint. Anyone can add to it by pull request.
+
 ### For node and masternode operators
 
 - **[XDC Sentinel](https://github.com/s4njk4n/XDC_Sentinel)**: phone alerts when an XDC node goes offline, plus a daily all-clear when it's fine
@@ -22,7 +24,7 @@ The monitoring tools run free on GitHub Actions, so you don't need a server and 
 - **[XDC ShopBot](https://github.com/s4njk4n/XDC_ShopBot)**: a Telegram shop that sells digital products for XDC and delivers them automatically ([try the demo](https://t.me/xdcshopbot))
 - **[XDC FuelSharp NSW](https://xdcoutpost.xyz/XDC_FuelSharpNSW/)**: cheapest fuel near you in NSW, with your discounts applied and prices in AUDD, XDC or USDC
 
-Also worth a look: **[XDC Library](https://github.com/s4njk4n/XDCLibrary)**, a reading list on XDC that I keep curated. Next up is **XDC FieldMedic**, a bot that spots a struggling RPC endpoint and fixes it before you notice.
+Next up is **XDC FieldMedic**, a bot that spots a struggling RPC endpoint and fixes it before you notice.
 
 ### Need a hand?
 
